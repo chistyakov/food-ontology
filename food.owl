@@ -22,7 +22,7 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:vann="http://purl.org/vocab/vann/">
      <owl:Ontology rdf:about="http://purl.org/foodontology">
-	    <dc:title xml:lang="en">The FoodOntology Vocabulary for Food Products Description!!!!!</dc:title>
+	    <dc:title xml:lang="en">The FoodOntology Vocabulary for Food Products Description!?!?!!!</dc:title>
         <rdfs:label xml:lang="en">Food Ontology</rdfs:label>
         <rdfs:label xml:lang="ru">Онтология еды и продуктов питания</rdfs:label>
 		<dc:date rdf:datatype="&xsd;date">2015-02-23</dc:date>
