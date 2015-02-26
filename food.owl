@@ -29,11 +29,11 @@
 		<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Food Ontology is an extension of GoodsRelations Ontology [GoodsRelations] created to represent food and food products. Food Ontology describes food products and provides information on ingredients, additives, nutrition facts and other food-specific facts.</rdfs:comment>
         <vann:preferredNamespaceUri rdf:datatype="&xsd;anyURI">http://purl.org/foodontology#</vann:preferredNamespaceUri>
 		<owl:versionInfo>1.0.0</owl:versionInfo>
-	    <dc:creator>Maxim Kolchin, SPb, ITMO University</dc:creator>
-	    <dc:creator>Maxim Lapaev, SPb, ITMO University</dc:creator>
-		<dc:creator>Rezeda Khaidarova, ITMO University</dc:creator>
-		<dc:creator>Alexander Chistyakov, ITMO University</dc:creator>
-		<dc:creator>Olga Parkhimovich, ITMO University</dc:creator>
+	    <dc:creator>Maxim Kolchin, SPb ITMO University</dc:creator>
+	    <dc:creator>Maxim Lapaev, SPb ITMO University</dc:creator>
+		<dc:creator>Rezeda Khaidarova, SPb ITMO University</dc:creator>
+		<dc:creator>Alexander Chistyakov, SPb ITMO University</dc:creator>
+		<dc:creator>Olga Parkhimovich, SPb ITMO University</dc:creator>
         <foaf:maker rdf:datatype="&xsd;anyURI">http://twitter.com/Kolchinmax</foaf:maker>
         <vann:preferredNamespacePrefix>food</vann:preferredNamespacePrefix>
         <owl:versionIRI rdf:resource="http://purl.org/foodontology/1.0.0"/>
